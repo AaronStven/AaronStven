@@ -1,4 +1,4 @@
-# Hi, I'm YourName 👋
+# Hi, I'm Aaron 👋
 
 **CS undergraduate** passionate about **Human–Computer Interaction**, **Data Analytics**, and **Applied AI**.
 My thesis explores **AI-based crop disease detection** — building models that turn field images into actionable insights for smallholder farmers.
@@ -6,7 +6,6 @@ My thesis explores **AI-based crop disease detection** — building models that 
 - 🔭 Currently: Thesis — CNN-based crop disease detection (TensorFlow, transfer learning)
 - 🌱 Learning: HCI evaluation methods, Bayesian data analysis, MLOps
 - 🎯 Seeking: Internship / junior role in HCI research, data analytics, or applied ML
-- 📫 Reach me: your.email@example.com · [LinkedIn](https://linkedin.com/in/yourname) · [Portfolio](https://yourname.dev)
 
 ---
 
@@ -31,14 +30,3 @@ My thesis explores **AI-based crop disease detection** — building models that 
 | [🗣 Accessibility Audit Toolkit](./a11y-audit-toolkit) | Automated WCAG checks + heuristic checklist for student projects | JS, axe-core, GitHub Actions |
 | [🎨 Colorblind-Safe Palette Generator](./colorblind-palette-generator) | HCI tool that generates accessible palettes and simulates CVD | React, TypeScript, color math |
 
----
-
-## 📈 GitHub Stats
-
-![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact)
-
----
-
-## 📄 Publications / Thesis
-- **YourName**, Advisor. *"AI-Based Crop Disease Detection for Smallholder Farmers."* Undergraduate Thesis, University, 2026.
